@@ -1,0 +1,1 @@
+Bu proje Mvc5 Platformunda C# backend kodları ile entity ve linq yaklaşımlar kullanılarak bootstrap ve CSS Js tasarım eklentileriyele tasarlanmıştır. Projemizde üç tane modül bulunur. Bunlardan ilki kullanıcı hesap modülü, ikincisi vitrin modülü ve üçünsü ise admin modülüdür.
