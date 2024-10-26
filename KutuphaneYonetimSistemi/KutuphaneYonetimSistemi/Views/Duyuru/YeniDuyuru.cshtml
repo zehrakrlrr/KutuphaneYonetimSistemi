@@ -1,0 +1,23 @@
+﻿@model KutuphaneYonetimSistemi.Models.Entity.TBLDUYURULAR
+@{
+    ViewBag.Title = "YeniDuyuru";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+<form class="form-group" method="post">
+    <div></div>
+    <div style="margin-top:15px;">
+        <label> Duyuru Kategorisi</label>
+        @Html.TextBoxFor(x => x.KATEGORI, new { @class = "form-control" })
+        <label> Duyuru İçerik</label>
+        @Html.TextAreaFor(x => x.ICERIK, new { @class = "form-control" })
+        <label> Duyuru Tarih</label>
+        @Html.TextBoxFor(x => x.TARİH, new { @class = "form-control" })
+
+    </div>
+    <div style="margin-top:15px">
+        <button class="btn btn-info" id="Btn1"> Duyuru Ekle</button>
+    </div>
+
+</form>
+

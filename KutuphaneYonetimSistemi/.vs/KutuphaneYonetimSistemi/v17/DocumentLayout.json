@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keski\\source\\repos\\KutuphaneYonetimSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84143A99-7C9E-49A5-9F79-70584AC891D4}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\keski\\source\\repos\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\views\\vitrin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84143A99-7C9E-49A5-9F79-70584AC891D4}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\views\\vitrin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84143A99-7C9E-49A5-9F79-70584AC891D4}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\keski\\source\\repos\\kutuphaneyonetimsistemi\\kutuphaneyonetimsistemi\\controllers\\vitrincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84143A99-7C9E-49A5-9F79-70584AC891D4}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\controllers\\vitrincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84143A99-7C9E-49A5-9F79-70584AC891D4}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\keski\\source\\repos\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84143A99-7C9E-49A5-9F79-70584AC891D4}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84143A99-7C9E-49A5-9F79-70584AC891D4}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\keski\\source\\repos\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84143A99-7C9E-49A5-9F79-70584AC891D4}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1249,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\keski\\source\\repos\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Views\\Kategori\\Index.cshtml",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Views\\Kategori\\Index.cshtml",
+              "ToolTip": "C:\\Users\\keski\\source\\repos\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Views\\Kategori\\Index.cshtml",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\Views\\Kategori\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T09:59:48.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KategoriController.cs",
+              "DocumentMoniker": "C:\\Users\\keski\\source\\repos\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Controllers\\KategoriController.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Controllers\\KategoriController.cs",
+              "ToolTip": "C:\\Users\\keski\\source\\repos\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Controllers\\KategoriController.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\Controllers\\KategoriController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:59:41.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\keski\\source\\repos\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Views\\Vitrin\\Index.cshtml",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Views\\Vitrin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\keski\\source\\repos\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Views\\Vitrin\\Index.cshtml",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\Views\\Vitrin\\Index.cshtml",
+              "ViewState": "AQIAAOYBAAAAAAAAAAAuwPgBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T19:43:43.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VitrinController.cs",
+              "DocumentMoniker": "C:\\Users\\keski\\source\\repos\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Controllers\\VitrinController.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Controllers\\VitrinController.cs",
+              "ToolTip": "C:\\Users\\keski\\source\\repos\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Controllers\\VitrinController.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\Controllers\\VitrinController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:43:26.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 449,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

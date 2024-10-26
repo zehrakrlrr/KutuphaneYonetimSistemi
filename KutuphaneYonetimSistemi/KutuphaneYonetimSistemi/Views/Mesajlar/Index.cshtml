@@ -1,0 +1,30 @@
+﻿@using KutuphaneYonetimSistemi.Models.Entity
+@model List<TBLMESAJLAR>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPanelim.cshtml";
+}
+
+<h2>Gelen Mesajlar Sayfası</h2>
+<br />
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Gönderen</th>
+            <th>Konu</th>
+            <th>Mesaj</th>
+            <th>Tarih</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var x in Model)
+        {
+            <tr>
+                <td>@x.GONDEREN</td>
+                <td>@x.KONU</td>
+                <td>@x.ICERIK</td>
+                <td>@x.TARİH</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,26 @@
+﻿@using KutuphaneYonetimSistemi.Models.Entity;
+@model List<TBLKİTAP>
+@{
+    ViewBag.Title = "YazarKitaplar";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+<br />
+<h2>Kitap Yazarı: @ViewBag.y1</h2>
+<br />
+<table class="table table-striped">
+    <tr>
+        <td>ID</td>
+        <td>Kitap Adı</td>
+        <td>Kategori</td>
+        <td>Yayınevi</td>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.ID</td>
+            <td>@x.AD</td>
+            <td>@x.TBLKATEGORİ.AD</td>
+            <td>@x.YAYINEVİ</td>
+        </tr>
+    }
+</table>
